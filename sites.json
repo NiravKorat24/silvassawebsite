@@ -1,0 +1,378 @@
+[
+  {
+  "id": 2,
+  "name": "Silvassa Hill",
+  "size": "3 BHK",
+  "status": "completed",
+  "type": "Residential",
+  "location": "Mota Varachha , Surat",
+  "address": "Silavasa hill, Sarjan Rd, Mota Varachha, Surat, Gujarat 394101",
+
+  "amenities": [
+      "Lift Facility",
+      "Power Backup",
+      "Parking Area",
+      "Security System"
+    ],
+        "highlights": [
+      "Prime location",
+      "Clear title property",
+      "Good investment potential"
+    ],
+
+    "connectivity": [
+      "Near main road",
+      "main attraction whole city",
+      "Public transport nearby"
+    ],
+
+    "floorPlans": [
+      "assets/silvassa-hill-floorplan1.jpg"
+    ],
+
+
+  "mapEmbed": "https://www.google.com/maps?q=SilvassaHill,+surat&output=embed",
+  "gallery": [
+    "https://is1-3.housingcdn.com/4f2250e8/a6338d641255b4e8dcdc270924806783/v0/large/shree_hari_silvassa_hill-mota_varachha-surat-shree_hari_buildcon.jpeg",
+    "https://images.unsplash.com/photo-1557858832-85455e413bf7?auto=format&fit=crop&fm=jpg&q=80&w=1200",
+    "https://www.a2zproperty.in/Gujarat/Surat/silvassa-hill/145813_const-720.jpg"
+  ],
+  "description": "Premium residential plot with road access and water supply.",
+  "image": "assets/Silvassa-hill-front.jpeg"
+},
+  
+{
+    "id": 3,
+    "name": "Silvassa Twin Tower",
+    "size": "2 BHK",
+      "type": "Residential with Shops",
+
+    "status": "completed",
+    "location": "Mota Varachha , Surat",
+    "address": "Silvassa Twin Tower ,Aspire Road, Nr. Sumeru Sky, Mota Varachha, Mota Varachha, Surat, Gujarat 394101",
+    "amenities": [
+      "Lift Facility",
+      "Double Basement Parking",
+      "Power Backup",
+      "Parking Area",
+      "Security System",
+      "Senior Citizens Sitting",
+      "Landscap Garden"
+    ],
+        "highlights": [
+      "Prime location",
+      "Clear title property",
+      "Good investment potential"
+    ],
+
+    "connectivity": [
+      "Near main road",
+      "Residency with Shop",
+      "Near School",
+      "Public transport nearby"
+    ],
+
+    "floorPlans": [
+      "assets/silvassa_Twintower-plan1.jpeg",
+      "assets/silvassa_Twintower-plan2.jpeg",
+      "assets/silvassa_Twintower-plan3.jpeg"
+    ],
+    
+    "gallery": [
+    "https://is1-3.housingcdn.com/4f2250e8/a6338d641255b4e8dcdc270924806783/v0/large/shree_hari_silvassa_hill-mota_varachha-surat-shree_hari_buildcon.jpeg",
+    "https://images.unsplash.com/photo-1557858832-85455e413bf7?auto=format&fit=crop&fm=jpg&q=80&w=1200",
+    "https://www.a2zproperty.in/Gujarat/Surat/silvassa-hill/145813_const-720.jpg"
+  ],
+
+    "mapEmbed": "https://www.google.com/maps?q=Silvassa+Twin+Tower,+surat&output=embed",
+
+    "description": "2 BHK premium living & shops.",
+
+    "image":"assets/Silvassa-twin-tower-front.jpeg"
+},
+
+  {
+    "id": 4,
+    "name": "Silvassa Stone",
+    "size": "3 BHK",
+    "status": "completed",
+    "location": "",
+    
+  "amenities": [
+      "Lift Facility",
+      "Power Backup",
+      "Parking Area",
+      "Security System"
+    ],
+        "highlights": [
+      "Prime location",
+      "Clear title property",
+      "Good investment potential"
+    ],
+
+    "connectivity": [
+      "Near main road",
+      "main attraction whole city",
+      "Public transport nearby"
+    ],
+
+    "floorPlans": [
+      "assets/silvassa-hill-floorplan1.jpg"
+    ],
+
+
+  "mapEmbed": "https://www.google.com/maps?q=Silvassa+stone,+surat&output=embed",
+  "gallery": [
+    
+  ],
+    "description": "Peaceful gated community with modern amenities.",
+    "image": "https://images.unsplash.com/photo-1758957894960-ab697ab50b22?auto=format&fit=crop&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=60&w=3000"
+  },
+  {
+    "id": 5,
+    "name": "Silvassa Paradise",
+    "size": "3 BHK",
+    "status": "completed",
+    "location": "Silvassa",
+    "amenities": [
+      "Lift Facility",
+      "Power Backup",
+      "Parking Area",
+      "Security System"
+    ],
+        "highlights": [
+      "Prime location",
+      "Clear title property",
+      "Good investment potential"
+    ],
+
+    "connectivity": [
+      "Near main road",
+      "main attraction whole city",
+      "Public transport nearby"
+    ],
+
+    "floorPlans": [
+      "assets/silvassa-hill-floorplan1.jpg"
+    ],
+
+
+  "mapEmbed": "https://www.google.com/maps?q=Silvassa+paradise,+surat&output=embed",
+  "gallery": [
+
+  ],
+    "description": "Corner plot with wide road frontage and green surroundings.",
+    "image": "https://images.unsplash.com/photo-1747077885559-352fca2e3e45?auto=format&fit=crop&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=60&w=3000"
+  },
+  {
+    "id": 6,
+    "name": "Silvassa Bunglows",
+    "size": " sq ft",
+    "status": "completed",
+    "location": "",
+    "amenities": [
+      "Lift Facility",
+      "Power Backup",
+      "Parking Area",
+      "Security System"
+    ],
+        "highlights": [
+      "Prime location",
+      "Clear title property",
+      "Good investment potential"
+    ],
+
+    "connectivity": [
+      "Near main road",
+      "main attraction whole city",
+      "Public transport nearby"
+    ],
+
+    "floorPlans": [
+      "assets/silvassa-hill-floorplan1.jpg"
+    ],
+
+
+  "mapEmbed": "https://www.google.com/maps?q=Silvassa+Bunglows,+surat&output=embed",
+  "gallery": [
+  ],
+    "description": "Premium gated plots with clubhouse and landscaped parks.",
+    "image": "https://images.unsplash.com/photo-1557858832-85455e413bf7?fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&q=60&w=3000"
+  },
+  {
+    "id": 7,
+    "name": "Silvassa Heaven",
+    "size": "2 BHK",
+    "status": "ongoing",
+    "location": "",
+    "amenities": [
+      "Lift Facility",
+      "Power Backup",
+      "Parking Area",
+      "Security System"
+    ],
+        "highlights": [
+      "Prime location",
+      "Clear title property",
+      "Good investment potential"
+    ],
+
+    "connectivity": [
+      "Near main road",
+      "main attraction whole city",
+      "Public transport nearby"
+    ],
+
+    "floorPlans": [
+      "assets/silvassa-hill-floorplan1.jpg"
+    ],
+
+
+  "mapEmbed": "https://www.google.com/maps?q=Silvassa+Heaven,+surat&output=embed",
+  "gallery": [
+  ],
+    "description": "Family-friendly community with modern amenities and security.",
+    "image": "https://images.unsplash.com/photo-1705354056330-de6ac04d7e6f?fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=60&w=3000"
+  },
+  {
+    "id": 8,
+    "name": "Silvassa Sunlight",
+    "size": "3 BHK",
+    "status": "ongoing",
+    "location": "Silvassa",
+    "amenities": [
+      "Lift Facility",
+      "Power Backup",
+      "Parking Area",
+      "Security System"
+    ],
+        "highlights": [
+      "Prime location",
+      "Clear title property",
+      "Good investment potential"
+    ],
+
+    "connectivity": [
+      "Near main road",
+      "main attraction whole city",
+      "Public transport nearby"
+    ],
+
+    "floorPlans": [
+      "assets/silvassa-hill-floorplan1.jpg"
+    ],
+
+
+  "mapEmbed": "https://www.google.com/maps?q=Silvassa+Sunlight,+surat&output=embed",
+  "gallery": [
+  ],
+    "description": "Scenic plots near the lake with serene views.",
+    "image": "https://images.unsplash.com/photo-1706543441598-e004cee81b3b?auto=format&fit=crop&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=60&w=3000"
+  },
+  {
+    "id": 9,
+    "name": "Silvassa Meritto",
+    "size": "3 BHK",
+    "status": "ongoing",
+    "location": "",
+    "amenities": [
+      "Lift Facility",
+      "Power Backup",
+      "Parking Area",
+      "Security System"
+    ],
+        "highlights": [
+      "Prime location",
+      "Clear title property",
+      "Good investment potential"
+    ],
+
+    "connectivity": [
+      "Near main road",
+      "main attraction whole city",
+      "Public transport nearby"
+    ],
+
+    "floorPlans": [
+      "assets/silvassa-hill-floorplan1.jpg"
+    ],
+
+
+  "mapEmbed": "https://www.google.com/maps?q=Silvassa+Meritto,+surat&output=embed",
+  "gallery": [
+  ],
+    "description": "High-end residential plots in a fast-growing corridor.",
+    "image": "https://images.unsplash.com/photo-1557858832-85455e413bf7?fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&q=60&w=3000"
+  },
+  {
+    "id": 10,
+    "name": "Silvassa Embro Park 1",
+    "size": " sq ft",
+    "status": "completed",
+    "location": "",
+    "amenities": [
+      "Lift Facility",
+      "Power Backup",
+      "Parking Area",
+      "Security System"
+    ],
+        "highlights": [
+      "Prime location",
+      "Clear title property",
+      "Good investment potential"
+    ],
+
+    "connectivity": [
+      "Near main road",
+      "main attraction whole city",
+      "Public transport nearby"
+    ],
+
+    "floorPlans": [
+      "assets/silvassa-hill-floorplan1.jpg"
+    ],
+
+
+  "mapEmbed": "https://www.google.com/maps?q=Silvassa+EmbroPark+1,+surat&output=embed",
+  "gallery": [
+  ],
+    "description": "Well-planned plots with underground utilities and park access.",
+    "image": "https://images.unsplash.com/photo-1747077885559-352fca2e3e45?auto=format&fit=crop&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=60&w=3000"
+  }
+    ,
+  {
+    "id": 11,
+    "name": "Silvassa Embro Park 2",
+    "size": " sq ft",
+    "status": "new",
+    "location": "",
+    "amenities": [
+      "Lift Facility",
+      "Power Backup",
+      "Parking Area",
+      "Security System"
+    ],
+        "highlights": [
+      "Prime location",
+      "Clear title property",
+      "Good investment potential"
+    ],
+
+    "connectivity": [
+      "Near main road",
+      "main attraction whole city",
+      "Public transport nearby"
+    ],
+
+    "floorPlans": [
+      "assets/silvassa-hill-floorplan1.jpg"
+    ],
+
+
+  "mapEmbed": "https://www.google.com/maps?q=Silvassa+EmbroPark+2,+surat&output=embed",
+  "gallery": [
+  ],
+    "description": "Modern plots with wide internal roads and landscaped green zones.",
+    "image": "https://images.unsplash.com/photo-1557858832-85455e413bf7?fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.0.3&q=60&w=3000"
+  }
+]
